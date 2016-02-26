@@ -3,26 +3,27 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-26T21:26:03.391Z'
-dateModified: '2016-02-26T20:56:33.193Z'
+datePublished: '2016-02-26T22:22:34.583Z'
+dateModified: '2016-02-26T22:20:28.364Z'
 title: DORIS AND DAPHNE DISCUSS ZOMBIES
 author: []
+sourcePath: _posts/2016-02-26-doris-and-daphne-discuss-zombies.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-doris-and-daphne-discuss-zombies.md
-published: true
 url: doris-and-daphne-discuss-zombies/index.html
 _type: Article
 
 ---
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79e27c37-6b40-40a1-8237-c0feadd4e881.jpg)
 
 # DORIS AND DAPHNE DISCUSS ZOMBIES
 
@@ -31,7 +32,6 @@ _type: Article
 written by Jordan Drew & Luke James
 
 \*I wrote this piece with a friend. I've been asked about it a few times since then, and I thought I'd repost it here since the site it was originally published on is regrettably no more, so with a nod, a curtsy, and big squishy hugs in the direction of my dear friend who made sense out of my ramblings, I give you Doris and Daphne Discuss... Zombies.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b95e2284-a569-41e5-a342-7df3dc1a1794.jpg)
 
 ****
 
