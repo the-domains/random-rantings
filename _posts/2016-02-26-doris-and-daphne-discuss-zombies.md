@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T22:23:56.087Z'
-dateModified: '2016-02-26T22:23:40.302Z'
+datePublished: '2016-02-26T22:25:16.135Z'
+dateModified: '2016-02-26T22:24:58.004Z'
+title: DORIS AND DAPHNE DISCUSS ZOMBIES
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: DORIS AND DAPHNE DISCUSS ZOMBIES
-author: []
 sourcePath: _posts/2016-02-26-doris-and-daphne-discuss-zombies.md
 published: true
 url: doris-and-daphne-discuss-zombies/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d76b42df-98ab-4977-8d9a-bcb58c496249.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd2a8a10-dd8c-4025-a059-74addf2c1e3a.jpg)
 
 # DORIS AND DAPHNE DISCUSS ZOMBIES
 
