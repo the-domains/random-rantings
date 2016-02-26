@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-26T21:26:03.425Z'
-dateModified: '2016-02-26T19:12:25.184Z'
+description: I blame you for every smile on my face over the past 10 years.
+datePublished: '2016-02-26T23:39:47.212Z'
+dateModified: '2016-02-26T23:39:22.736Z'
 title: I Blame You
 author: []
 authors: []
@@ -22,8 +22,9 @@ url: i-blame-you/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f27d9e7-2cd0-4d55-9a92-c8b4973ebd11.jpg)
+
 # I Blame You
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56eec773-e5ad-42a0-abc7-cea34f36b19b.jpg)
 
 I blame you for every smile on my face over the past 10 years; for every skip of my heart.
 
