@@ -1,6 +1,6 @@
 name: Random Rantings
 favicon: null
-layout_spectrum: 0.37967
+layout_spectrum: 0.50433
 typography_spectrum: 0.10663
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#0e1e38'
     - '#c2af77'
     - '#44673d'
-  brandStrength: 0.5
+  brandStrength: 0.8125
   lightness: 0
   saturation: 1
   rhythmicContrast: 0.75
