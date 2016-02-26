@@ -1,7 +1,7 @@
 name: Random Rantings
 favicon: null
 layout_spectrum: 0.16983
-typography_spectrum: 0.12289
+typography_spectrum: 0.11205
 title: Random Rantings of Jordan Drew
 cta:
   domain: null
@@ -18,10 +18,10 @@ opengraph:
 color:
   brandColors:
     - '#000000'
-    - '#fefefe'
-    - '#d8d3da'
-    - '#487f00'
-    - '#af819e'
+    - '#ffffff'
+    - '#b59ab9'
+    - '#9e697b'
+    - '#76204f'
   brandStrength: 0.1875
   lightness: 0
   saturation: 0.75
