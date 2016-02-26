@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-26T21:26:02.973Z'
-dateModified: '2016-02-26T21:16:03.815Z'
+description: 'When Sophie started doing her “I’m not sleeping again tonight” thing this morning around 3:00, I laughed. I actually told her to go ahead. Never sleep again. I’m good, chicka, I had sleep and am wide awake.  Fifteen minutes later, baby girl fell asleep.'
+datePublished: '2016-02-26T23:19:50.182Z'
+dateModified: '2016-02-26T23:19:41.492Z'
 title: Lesson Learned
 author: []
 authors: []
@@ -22,11 +22,11 @@ url: lesson-learned/index.html
 _type: Article
 
 ---
-![Sophie Smiles](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0985823e-f964-4d44-9b5a-37ec658f3ea7.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5faa65f-abf7-4360-a91a-69b55a72695b.JPG)
 
 # Lesson Learned
 
-So, yeah, I've kinda been MIA for awhile on both facebook and twitter... and this blog thing that I've never really rocked at anyway... There was this whole me being pregnant thing that happened and it wasn't an easy pregnancy. High blood pressure, bed rest, gestational diabetes -- carpal tunnel so bad the fingers on my hands were completely numb and would go to sleep if I tried to type and hurt like hell if I tried to hold a pen in my hand. Good news, I had the baby in August and even though the tips of my fingers are still a little numb, I'm doing much better, and baby girl is perfect... though I think she's got my number.
+So, yeah, I've kinda been MIA for awhile on both facebook and twitter... and this blog thing that I've never really rocked at anyway... There was this whole me being pregnant thing that happened, and it wasn't an easy pregnancy. High blood pressure, bed rest, gestational diabetes -- carpal tunnel so bad the fingers on my hands were completely numb and would go to sleep if I tried to type and hurt like hell if I tried to hold a pen in my hand. Good news, I had the baby in August (2012) and even though the tips of my fingers are still a little numb, I'm doing much better, and baby girl is perfect... though I think she's got my number.
 
 Sophie isn't much with the sleeping thing, which I thought would be fine because I've had insomnia since like forever, so I thought I could handle a teeny tiny little baby with an up all night kind of schedule.
 
@@ -34,7 +34,7 @@ I totally can't.
 
 I'm freaking tired, man.
 
-So my mother in law, who is absolutely the best mother in law EVER, came yesterday so I could get in a nap, and nap I did. I got a full night's sleep yesterday afternoon. It was AWESOME. So when Sophie started doing her "I'm not sleeping again tonight" thing this morning around 3:00, I laughed. I actually told her to go ahead. Never sleep again. I'm good, chicka, I had sleep and am wide awake.
+My mother in law, who is absolutely the best mother in law EVER, came yesterday so I could get in a nap, and nap I did. I got a full night's sleep yesterday afternoon. It was AWESOME. So when Sophie started doing her "I'm not sleeping again tonight" thing this morning around 3:00, I laughed. I actually told her to go ahead. Never sleep again. I'm good, chicka, I had sleep and am wide awake.
 
 Fifteen minutes later, baby girl fell asleep.
 
