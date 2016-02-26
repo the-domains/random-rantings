@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-26T21:26:03.148Z'
-dateModified: '2016-02-26T19:09:51.768Z'
+datePublished: '2016-02-26T23:39:47.201Z'
+dateModified: '2016-02-26T23:39:20.693Z'
 title: Calendars
 author: []
 authors: []
@@ -22,8 +22,9 @@ url: calendars/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/163a0153-4187-4979-9eb2-6a56a679473d.jpg)
+
 # Calendars
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7700b26f-3285-4853-9d12-b5da6457595f.jpg)
 
 Every Christmas, my mom gives me a calendar, and every year I chuckle about it, and stuff it behind my piano as soon as I get home. She knows I do this, but buys them anyway. Collectively, there are 12 years behind that piano. 12 years since I stopped worrying about tomorrow.
 
