@@ -1,6 +1,6 @@
 name: Random Rantings
 favicon: null
-layout_spectrum: 0.37424676422961056
+layout_spectrum: 0.66874
 typography_spectrum: 0.630560769001022
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#85857d'
+    - '#f9db93'
+    - '#0e1e38'
+    - '#c2af77'
+    - '#44673d'
   brandStrength: 0.22123153298161924
   lightness: 0.5640305122360587
   saturation: 0.5065763622988015
