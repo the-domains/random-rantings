@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T21:26:02.788Z'
-dateModified: '2016-02-26T21:08:57.481Z'
+datePublished: '2016-02-27T19:37:20.757Z'
+dateModified: '2016-02-27T19:37:20.271Z'
 title: "I Can't Remember"
 author: []
+sourcePath: _posts/2016-02-26-i-cant-remember.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-i-cant-remember.md
-published: true
 url: i-cant-remember/index.html
 _type: Article
 
 ---
 # I Can't Remember
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66068c70-f6ef-4b14-9683-298b9964b934.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f39efeabd06c2479b080e3220560713b0c5e7f1.jpg)
 
 _I don't know when it happened, but somewhere along the way... I just stopped._
 
