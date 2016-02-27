@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-26T23:39:47.201Z'
-dateModified: '2016-02-26T23:39:20.693Z'
+datePublished: '2016-02-27T01:00:58.714Z'
+dateModified: '2016-02-27T00:33:57.416Z'
 title: Calendars
 author: []
+sourcePath: _posts/2016-02-26-calendars.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-calendars.md
-published: true
 url: calendars/index.html
 _type: Article
 
