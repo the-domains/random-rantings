@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T21:26:03.708Z'
-dateModified: '2016-02-26T20:32:25.004Z'
+datePublished: '2016-02-27T19:37:31.373Z'
+dateModified: '2016-02-27T19:37:30.580Z'
 title: You were Right
 author: []
+sourcePath: _posts/2016-02-26-you-were-right.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-you-were-right.md
-published: true
 url: you-were-right/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4df4eee5-72d4-475f-b93c-955c0cd58dcd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1f2239c0f56a643c732094f5e5ce01578639fc6.jpg)
 
 # You were Right
 
