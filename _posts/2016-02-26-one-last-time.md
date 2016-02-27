@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T21:26:02.822Z'
-dateModified: '2016-02-26T21:11:16.986Z'
+datePublished: '2016-02-27T19:37:07.954Z'
+dateModified: '2016-02-27T19:37:07.616Z'
 title: One Last Time
 author: []
+sourcePath: _posts/2016-02-26-one-last-time.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-one-last-time.md
-published: true
 url: one-last-time/index.html
 _type: Article
 
 ---
 # One Last Time
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0bfc8ac-e129-46e1-be5b-fa8b0ededc1f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d20dd810225de238e79386e33ae3e238727a130.jpg)
 
 It wasn't supposed to end this way. All or nothing, not one or the other. It wasn't fair to know he had to go on without her. His sister came over often, saying it was time to move on, to let go, and she was right, but it didn't make the decision to leave any easier.
 
