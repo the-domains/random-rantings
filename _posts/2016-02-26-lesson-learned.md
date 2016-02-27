@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'When Sophie started doing her “I’m not sleeping again tonight” thing this morning around 3:00, I laughed. I actually told her to go ahead. Never sleep again. I’m good, chicka, I had sleep and am wide awake.  Fifteen minutes later, baby girl fell asleep.'
-datePublished: '2016-02-26T23:19:50.182Z'
-dateModified: '2016-02-26T23:19:41.492Z'
+datePublished: '2016-02-27T19:36:37.227Z'
+dateModified: '2016-02-27T19:36:36.844Z'
 title: Lesson Learned
 author: []
+sourcePath: _posts/2016-02-26-lesson-learned.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-lesson-learned.md
-published: true
 url: lesson-learned/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5faa65f-abf7-4360-a91a-69b55a72695b.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb8705e63d67f840e44a5d98a8a7877658c87fda.jpg)
 
 # Lesson Learned
 
