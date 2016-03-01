@@ -4,7 +4,7 @@
         <description><![CDATA[Random Rantings of Jordan Drew]]></description>
         <link>https://thegrid.ai/random-rantings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 19:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 19:19:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/random-rantings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[I Blame You]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/random-rantings/i-blame-you/index.html</link>
             <guid isPermaLink="false">c4bda2ad-f1cc-41dc-9566-9aa7b0f6fe56</guid>
             <pubDate>Sat, 27 Feb 2016 19:35:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Home Page]]></title>
+            <description><![CDATA[<article><h1>Home Page</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7f7acd6e315edc7c8b97d87c3ab0682a5d078b4.jpg"></article>]]></description>
+            <link>http://13storiestilhalloween.com/</link>
+            <guid isPermaLink="false">8104a6dc-528d-4ad2-82bf-f19e21f8631f</guid>
+            <pubDate>Tue, 01 Mar 2016 19:19:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/random-rantings/midnight/index.html</link>
             <guid isPermaLink="false">51018809-c69d-43b2-8d29-7e939f4bd1c1</guid>
             <pubDate>Sat, 27 Feb 2016 19:37:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One Last Time]]></title>
-            <description><![CDATA[<article><h1>One Last Time</h1><p>It wasn’t supposed to end this way. All or nothing, not one or the other. It wasn’t fair to know he had to go on without her. His sister came over often, saying it was time to move on, to let go, and she was right, but it didn’t make the decision to leave any easier.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d20dd810225de238e79386e33ae3e238727a130.jpg"></article>]]></description>
-            <link>https://thegrid.ai/random-rantings/one-last-time/index.html</link>
-            <guid isPermaLink="false">3e58b8b0-598a-4080-bdec-23209c541761</guid>
-            <pubDate>Sat, 27 Feb 2016 19:37:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
