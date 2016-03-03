@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Coffee quotes and sayings. Everything coffee, and #CoffeeAlways'
-datePublished: '2016-03-03T04:23:34.592Z'
-dateModified: '2016-03-03T04:23:16.284Z'
+datePublished: '2016-03-03T04:29:14.650Z'
+dateModified: '2016-03-03T04:28:25.090Z'
 title: '#CoffeeAlways'
 author: []
+sourcePath: _posts/2016-03-03-coffeealways.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-03-coffeealways.md
-published: true
 url: coffeealways/index.html
 _type: Article
 
