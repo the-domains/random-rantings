@@ -4,7 +4,7 @@
         <description><![CDATA[Random Rantings of Jordan Drew]]></description>
         <link>https://thegrid.ai/random-rantings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 19:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 04:25:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/random-rantings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[I Blame You]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/random-rantings/i-blame-you/index.html</link>
             <guid isPermaLink="false">c4bda2ad-f1cc-41dc-9566-9aa7b0f6fe56</guid>
             <pubDate>Sat, 27 Feb 2016 19:35:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#CoffeeAlways]]></title>
+            <description><![CDATA[<article><h1>#CoffeeAlways</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27bd6917234054070bf0454e362e386d3f7fbd5c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/random-rantings/coffeealways/index.html</link>
+            <guid isPermaLink="false">62e3c395-d04a-4422-8993-f718b34547b7</guid>
+            <pubDate>Thu, 03 Mar 2016 04:23:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[13 Stories 'Til Halloween]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/random-rantings/you-were-right/index.html</link>
             <guid isPermaLink="false">5355cd7d-43a4-4280-bc59-e5b902962bbc</guid>
             <pubDate>Sat, 27 Feb 2016 19:37:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Midnight]]></title>
-            <description><![CDATA[<article><h1>Midnight</h1><p>He knew he saw something, but he wasn’t sure if what he’d seen was real.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ed33c10001bf0cb0ede2048dc3faab7b72367a8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/random-rantings/midnight/index.html</link>
-            <guid isPermaLink="false">51018809-c69d-43b2-8d29-7e939f4bd1c1</guid>
-            <pubDate>Sat, 27 Feb 2016 19:37:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
